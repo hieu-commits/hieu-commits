@@ -1,179 +1,97 @@
-<h2>👋 Hi there, I'm Huỳnh Nhật Hiếu!</h2>
-<p>Software Engineering student at HCMUS • Network, DevOps & Cyber Security &nbsp;🟠🔵🟢</p>
+<!--
+  GitHub Profile README for hieu-commits
+  Repository name: hieu-commits
+  Keep this file at the repository root.
+-->
 
-<br/>
+<h2>👋 Hi there, I'm Hieu!</h2>
 
-<h3>Tech Stack</h3>
-
-<p align="left">
-  <!-- Giữ nguyên 2 hàng Software Engineering gốc trong ảnh -->
-  <img src="https://img.shields.io/badge/-Java-EA580C?style=flat&logo=openjdk&logoColor=white" height="28" alt="Java" />
-  <img src="https://img.shields.io/badge/-Python-2563EB?style=flat&logo=python&logoColor=white" height="28" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-EAB308?style=flat&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-2563EB?style=flat&logo=typescript&logoColor=white" height="28" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-React-0284C7?style=flat&logo=react&logoColor=white" height="28" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-16A34A?style=flat&logo=nodedotjs&logoColor=white" height="28" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-EA580C?style=flat&logo=html5&logoColor=white" height="28" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-2563EB?style=flat&logo=css3&logoColor=white" height="28" alt="CSS3" />
-  <br/>
-  <img src="https://img.shields.io/badge/-Git-EA580C?style=flat&logo=git&logoColor=white" height="28" alt="Git" />
-  <img src="https://img.shields.io/badge/-Docker-0284C7?style=flat&logo=docker&logoColor=white" height="28" alt="Docker" />
-  <img src="https://img.shields.io/badge/-MySQL-1E40AF?style=flat&logo=mysql&logoColor=white" height="28" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-2563EB?style=flat&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-16A34A?style=flat&logo=mongodb&logoColor=white" height="28" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Firebase-F59E0B?style=flat&logo=firebase&logoColor=white" height="28" alt="Firebase" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-0D9488?style=flat&logo=tailwindcss&logoColor=white" height="28" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-Figma-9333EA?style=flat&logo=figma&logoColor=white" height="28" alt="Figma" />
-  <br/>
-  <!-- Thêm hàng DevOps & Systems cùng style -->
-  <img src="https://img.shields.io/badge/-C%2B%2B-1D4ED8?style=flat&logo=cplusplus&logoColor=white" height="28" alt="C++" />
-  <img src="https://img.shields.io/badge/-Linux-CA8A04?style=flat&logo=linux&logoColor=white" height="28" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Bash-15803D?style=flat&logo=gnubash&logoColor=white" height="28" alt="Bash" />
-  <img src="https://img.shields.io/badge/-Kubernetes-2563EB?style=flat&logo=kubernetes&logoColor=white" height="28" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-1D4ED8?style=flat&logo=githubactions&logoColor=white" height="28" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/-Ansible-DC2626?style=flat&logo=ansible&logoColor=white" height="28" alt="Ansible" />
-  <img src="https://img.shields.io/badge/-Terraform-7C3AED?style=flat&logo=terraform&logoColor=white" height="28" alt="Terraform" />
-  <img src="https://img.shields.io/badge/-VMware-475569?style=flat&logo=vmware&logoColor=white" height="28" alt="VMware" />
-  <br/>
-  <!-- Thêm hàng Network & Cyber Security cùng style -->
-  <img src="https://img.shields.io/badge/-Cisco-0284C7?style=flat&logo=cisco&logoColor=white" height="28" alt="Cisco" />
-  <img src="https://img.shields.io/badge/-MikroTik-334155?style=flat&logo=mikrotik&logoColor=white" height="28" alt="MikroTik" />
-  <img src="https://img.shields.io/badge/-Palo_Alto-EA580C?style=flat&logo=paloaltonetworks&logoColor=white" height="28" alt="Palo Alto" />
-  <img src="https://img.shields.io/badge/-WireGuard-991B1B?style=flat&logo=wireguard&logoColor=white" height="28" alt="WireGuard" />
-  <img src="https://img.shields.io/badge/-Wireshark-0369A1?style=flat&logo=wireshark&logoColor=white" height="28" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/-Kali_Linux-1E40AF?style=flat&logo=kalilinux&logoColor=white" height="28" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/-Burp_Suite-EA580C?style=flat&logo=burpsuite&logoColor=white" height="28" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/-OWASP-334155?style=flat&logo=owasp&logoColor=white" height="28" alt="OWASP" />
+<p>
+  <strong>IT Networking · IoT · Cybersecurity · Software & Automation</strong><br/>
+  <sub>Exploring how connected systems work — from network infrastructure and traffic analysis to IoT communication and practical automation.</sub>
 </p>
 
-<br/>
+<p>
+  <a href="https://github.com/hieu-commits?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20repositories-527DA8?style=flat&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <img src="https://img.shields.io/badge/Focus-Networking-4B86A6?style=flat" alt="Networking" />
+  <img src="https://img.shields.io/badge/Focus-IoT-4D8F80?style=flat" alt="IoT" />
+  <img src="https://img.shields.io/badge/Focus-Security-9A759D?style=flat" alt="Cybersecurity" />
+</p>
 
-<!-- Tiêu đề Featured Projects kèm link View all repositories căn phải -->
-<table width="100%">
-  <tr>
-    <td align="left"><h3>Featured Projects</h3></td>
-    <td align="right"><a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><sub>View all repositories →</sub></a></td>
-  </tr>
-</table>
+---
+
+## 🧰 Tech Stack
+
+<p><strong>Networking & Infrastructure</strong><br/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-3F7198?style=flat&logoColor=white" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/VLAN-39827C?style=flat" alt="VLAN" />
+  <img src="https://img.shields.io/badge/MikroTik-394B59?style=flat&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/Wireshark-347C9D?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Linux-9D884B?style=flat&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/EVE--NG-596A7A?style=flat" alt="EVE-NG" />
+</p>
+
+<p><strong>IoT & Connected Systems</strong><br/>
+  <img src="https://img.shields.io/badge/MQTT-8467A5?style=flat" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Node--RED-AD615F?style=flat&logo=nodered&logoColor=white" alt="Node-RED" />
+  <img src="https://img.shields.io/badge/REST%20API-4B8A72?style=flat" alt="REST API" />
+  <img src="https://img.shields.io/badge/Docker-397AAB?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<p><strong>Security, Programming & Automation</strong><br/>
+  <img src="https://img.shields.io/badge/Firewall%20Labs-AD6651?style=flat" alt="Firewall labs" />
+  <img src="https://img.shields.io/badge/Python-477DA8?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-4E75A3?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/C%2B%2B-476F9D?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-9A5C4E?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p><sub>These cards show the project areas I am building and documenting. Links open my repository list until each project has its own public repository.</sub></p>
 
 <table>
-  <!-- Hàng 1: Giữ nguyên 3 dự án Software Engineering như trong ảnh -->
   <tr>
-    <td width="33%" valign="top">
-      <h4>🎓 <a href="https://github.com/YOUR_GITHUB_USERNAME">CampusHub</a></h4>
-      <p><sub>A web application to help students manage courses, schedules and campus activities.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/-React-1E3A8A?style=flat" height="20" />
-        <img src="https://img.shields.io/badge/-Node.js-14532D?style=flat" height="20" />
-        <img src="https://img.shields.io/badge/-MySQL-1E3A5F?style=flat" height="20" />
-      </p>
-      <p><sub>⭐ 32 &nbsp;&nbsp; ⑂ 8</sub></p>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/project-network.svg" width="100%" alt="Network engineering project track: TCP/IP, VLANs, routing, switching and troubleshooting" /></a>
     </td>
-    <td width="33%" valign="top">
-      <h4>🛒 <a href="https://github.com/YOUR_GITHUB_USERNAME">UniMart</a></h4>
-      <p><sub>An e-commerce web app built with Spring Boot and React, featuring product management and online payments.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/-Java-9A3412?style=flat" height="20" />
-        <img src="https://img.shields.io/badge/-React-1E3A8A?style=flat" height="20" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-1E3A5F?style=flat" height="20" />
-      </p>
-      <p><sub>⭐ 28 &nbsp;&nbsp; ⑂ 6</sub></p>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/project-iot.svg" width="100%" alt="IoT and connectivity project track: MQTT, APIs, telemetry and service integration" /></a>
     </td>
-    <td width="33%" valign="top">
-      <h4>📓 <a href="https://github.com/YOUR_GITHUB_USERNAME">DevBlog</a></h4>
-      <p><sub>A personal blog platform for sharing tech articles and learning notes.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/-Next.js-334155?style=flat" height="20" />
-        <img src="https://img.shields.io/badge/-Tailwind_CSS-134E4A?style=flat" height="20" />
-        <img src="https://img.shields.io/badge/-MongoDB-14532D?style=flat" height="20" />
-      </p>
-      <p><sub>⭐ 15 &nbsp;&nbsp; ⑂ 4</sub></p>
-    </td>
-  </tr>
-  <!-- Hàng 2: Thêm 3 dự án Network, DevOps và Cyber Security -->
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🌐 <a href="https://github.com/YOUR_GITHUB_USERNAME">EnterpriseNetLab</a></h4>
-      <p><sub>Multi-site enterprise network architecture with HA firewalls, LACP switching, and WireGuard VPN tunnels.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/-Cisco-0C4A6E?style=flat" height="20" />
-        <img src="https://img.shields.io/badge/-Palo_Alto-7C2D12?style=flat" height="20" />
-        <img src="https://img.shields.io/badge/-MikroTik-334155?style=flat" height="20" />
-      </p>
-      <p><sub>⭐ 24 &nbsp;&nbsp; ⑂ 5</sub></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>♾️ <a href="https://github.com/YOUR_GITHUB_USERNAME">CloudOpsPipeline</a></h4>
-      <p><sub>Automated CI/CD deployment pipeline featuring container orchestration, IaC provisioning, and monitoring.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/-Docker-1E3A8A?style=flat" height="20" />
-        <img src="https://img.shields.io/badge/-Kubernetes-1E40AF?style=flat" height="20" />
-        <img src="https://img.shields.io/badge/-Ansible-7F1D1D?style=flat" height="20" />
-      </p>
-      <p><sub>⭐ 30 &nbsp;&nbsp; ⑂ 9</sub></p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🛡️ <a href="https://github.com/YOUR_GITHUB_USERNAME">SecAuditGuard</a></h4>
-      <p><sub>Automated vulnerability scanner, Linux server hardening toolkit, and real-time SIEM threat detection.</sub></p>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-1E3A8A?style=flat" height="20" />
-        <img src="https://img.shields.io/badge/-Kali_Linux-1E3A5F?style=flat" height="20" />
-        <img src="https://img.shields.io/badge/-OWASP-334155?style=flat" height="20" />
-      </p>
-      <p><sub>⭐ 19 &nbsp;&nbsp; ⑂ 4</sub></p>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/project-security.svg" width="100%" alt="Cybersecurity project track: firewall policy, packet analysis, system hardening and automation" /></a>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<!-- Tiêu đề My recent articles kèm link View all posts căn phải, không dùng header bảng -->
-<table width="100%">
-  <tr>
-    <td align="left"><h3>My recent articles</h3></td>
-    <td align="right"><a href="https://github.com/YOUR_GITHUB_USERNAME"><sub>View all posts →</sub></a></td>
-  </tr>
-</table>
+## 🗒️ Lab Notes & Current Focus
 
-<table width="100%">
-  <tr>
-    <td align="left">📄 <a href="#">How I Started My Software Engineering Journey at University</a></td>
-    <td align="right"><sub>Mar 12, 2026</sub></td>
-  </tr>
-  <tr>
-    <td align="left">📄 <a href="#">Building a Full-stack Web Application with React and Node.js</a></td>
-    <td align="right"><sub>Feb 25, 2026</sub></td>
-  </tr>
-  <tr>
-    <td align="left">📄 <a href="#">Key Lessons from My First Internship Experience</a></td>
-    <td align="right"><sub>Jan 10, 2026</sub></td>
-  </tr>
-  <tr>
-    <td align="left">📄 <a href="#">Designing High-Availability Enterprise Networks with Palo Alto & Cisco</a></td>
-    <td align="right"><sub>Oct 18, 2026</sub></td>
-  </tr>
-  <tr>
-    <td align="left">📄 <a href="#">Building a Zero-Downtime DevSecOps CI/CD Pipeline with Docker & Ansible</a></td>
-    <td align="right"><sub>Sep 29, 2026</sub></td>
-  </tr>
-  <tr>
-    <td align="left">📄 <a href="#">Practical Linux Server Hardening & Traffic Analysis with Wireshark</a></td>
-    <td align="right"><sub>Aug 15, 2026</sub></td>
-  </tr>
-</table>
+| Topic | What I'm exploring |
+|:--|:--|
+| **Network engineering** | VLAN segmentation, routing, switching, firewall rules and troubleshooting workflows |
+| **Traffic analysis** | Packet captures, protocol behaviour, logs and practical diagnostics |
+| **IoT connectivity** | MQTT messaging, API integration, telemetry and reliable communication between services |
+| **Security & automation** | System hardening, access control, defensive monitoring, Python and PowerShell scripts |
 
-<br/>
+---
 
-<h3>My GitHub contributions summary</h3>
+## 📊 My GitHub Contributions
 
-<table width="100%">
-  <tr>
-    <td width="48%" valign="middle" align="center">
-      <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" width="100%" alt="GitHub Streak" />
-    </td>
-    <td width="52%" valign="middle" align="center">
-      <p align="left"><sub><b>Contributions in the last year</b></sub></p>
-      <img src="https://ghchart.rshah.org/2ea043/YOUR_GITHUB_USERNAME" width="100%" alt="GitHub Contribution Grid" />
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/hieu-commits"><img height="165" src="https://github-readme-stats.vercel.app/api?username=hieu-commits&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics for hieu-commits" /></a>
+  <a href="https://github.com/hieu-commits?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieu-commits&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages" /></a>
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=hieu-commits&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+<p align="left">
+  <sub>Always learning, testing ideas, documenting results, and improving one project at a time.</sub>
+</p>
