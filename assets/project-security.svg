@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250" role="img" aria-labelledby="title desc">
+<title id="title">Cybersecurity and Firewall Lab</title><desc id="desc">Glowing shield and network traffic analysis visual.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#200d37"/><stop offset=".52" stop-color="#3b135f"/><stop offset="1" stop-color="#10142e"/></linearGradient>
+ <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f07bff"/><stop offset="1" stop-color="#7a63ff"/></linearGradient>
+ <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffad77"/><stop offset="1" stop-color="#ff4f91"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#d09aff" stroke-opacity=".12"/></pattern>
+</defs>
+<rect x="0" y="0" width="640" height="5" rx="2.5" fill="#f07bff" opacity=".9"/><rect width="640" height="250" rx="22" fill="url(#bg)"/><rect width="640" height="250" rx="22" fill="url(#grid)"/>
+<circle cx="320" cy="124" r="108" fill="#a72aff" opacity=".08"/><g fill="none" stroke="#c879ff" stroke-width="2" opacity=".75"><path d="M105 98h76l28 27h58M535 98h-76l-28 27h-58M116 178h90l28-27h37M524 178h-90l-28-27h-37"/></g>
+<g filter="url(#glow)"><path d="M320 49l70 27v48c0 48-30 75-70 92-40-17-70-44-70-92V76z" fill="#28134d" stroke="url(#violet)" stroke-width="5"/><path d="M320 71l49 19v34c0 33-19 54-49 69-30-15-49-36-49-69V90z" fill="#401a76" stroke="#cb9dff" stroke-width="2"/></g>
+<g fill="none" stroke="url(#pink)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><path d="M294 125l18 18 36-41"/></g>
+<g fill="#28134d" stroke="url(#violet)" stroke-width="3"><rect x="56" y="73" width="130" height="48" rx="10"/><rect x="454" y="73" width="130" height="48" rx="10"/><rect x="73" y="155" width="130" height="42" rx="10"/><rect x="437" y="155" width="130" height="42" rx="10"/></g>
+<g fill="#f1dfff" font-family="Arial,sans-serif" font-size="12" font-weight="700" text-anchor="middle"><text x="121" y="102">PACKET ANALYSIS</text><text x="519" y="102">FIREWALL POLICY</text><text x="138" y="181">LOG REVIEW</text><text x="502" y="181">HARDENING</text></g>
+<g fill="url(#pink)"><circle cx="214" cy="125" r="5"/><circle cx="426" cy="125" r="5"/></g>
+<g fill="#d9b8ff" font-family="Arial,sans-serif" font-size="12"><text x="28" y="32">CYBERSECURITY</text><text x="414" y="226">DEFENSE • ANALYSIS • CONTROL</text></g>
+</svg>
