@@ -1,97 +1,135 @@
 <!--
   GitHub Profile README for hieu-commits
   Repository name: hieu-commits
-  Keep this file at the repository root.
+  Keep this file at the repository root and upload the assets/ folder too.
 -->
 
-<h2>👋 Hi there, I'm Hieu!</h2>
+<h1>👋 Hi there, I'm Hieu!</h1>
+
+<p><strong>IT Networking&nbsp; · &nbsp;IoT&nbsp; · &nbsp;Cybersecurity&nbsp; · &nbsp;Automation</strong></p>
 
 <p>
-  <strong>IT Networking · IoT · Cybersecurity · Software & Automation</strong><br/>
-  <sub>Exploring how connected systems work — from network infrastructure and traffic analysis to IoT communication and practical automation.</sub>
+  I enjoy understanding how networks and connected systems work — from routing and traffic analysis
+  to IoT connectivity, security controls, and practical automation.
 </p>
 
 <p>
-  <a href="https://github.com/hieu-commits?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20repositories-527DA8?style=flat&logo=github&logoColor=white" alt="Explore repositories" /></a>
-  <img src="https://img.shields.io/badge/Focus-Networking-4B86A6?style=flat" alt="Networking" />
-  <img src="https://img.shields.io/badge/Focus-IoT-4D8F80?style=flat" alt="IoT" />
-  <img src="https://img.shields.io/badge/Focus-Security-9A759D?style=flat" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/NETWORKING-1677FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/IoT-08A88A?style=for-the-badge&logo=mqtt&logoColor=white" alt="IoT" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
 </p>
 
 ---
 
 ## 🧰 Tech Stack
 
-<p><strong>Networking & Infrastructure</strong><br/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-3F7198?style=flat&logoColor=white" alt="TCP/IP" />
-  <img src="https://img.shields.io/badge/VLAN-39827C?style=flat" alt="VLAN" />
-  <img src="https://img.shields.io/badge/MikroTik-394B59?style=flat&logo=mikrotik&logoColor=white" alt="MikroTik" />
-  <img src="https://img.shields.io/badge/Wireshark-347C9D?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Linux-9D884B?style=flat&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/EVE--NG-596A7A?style=flat" alt="EVE-NG" />
+<p><strong>🌐 Networking &amp; Infrastructure</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/MikroTik-EA4335?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-1677FF?style=for-the-badge" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/VLAN-0EA5E9?style=for-the-badge" alt="VLAN" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/EVE--NG-64748B?style=for-the-badge" alt="EVE-NG" />
+  <img src="https://img.shields.io/badge/Firewall-FF7A18?style=for-the-badge&logo=pfsense&logoColor=white" alt="Firewall" />
 </p>
 
-<p><strong>IoT & Connected Systems</strong><br/>
-  <img src="https://img.shields.io/badge/MQTT-8467A5?style=flat" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Node--RED-AD615F?style=flat&logo=nodered&logoColor=white" alt="Node-RED" />
-  <img src="https://img.shields.io/badge/REST%20API-4B8A72?style=flat" alt="REST API" />
-  <img src="https://img.shields.io/badge/Docker-397AAB?style=flat&logo=docker&logoColor=white" alt="Docker" />
+<p><strong>📡 IoT &amp; Connected Systems</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/MQTT-8B5CF6?style=for-the-badge" alt="MQTT" />
+  <img src="https://img.shields.io/badge/REST_API-0D9488?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Networking-0284C7?style=for-the-badge" alt="Connected systems" />
 </p>
 
-<p><strong>Security, Programming & Automation</strong><br/>
-  <img src="https://img.shields.io/badge/Firewall%20Labs-AD6651?style=flat" alt="Firewall labs" />
-  <img src="https://img.shields.io/badge/Python-477DA8?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PowerShell-4E75A3?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/C%2B%2B-476F9D?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Git-9A5C4E?style=flat&logo=git&logoColor=white" alt="Git" />
+<p><strong>🛡️ Security, Systems &amp; Automation</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-2563EB?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<p><sub>These cards show the project areas I am building and documenting. Links open my repository list until each project has its own public repository.</sub></p>
+<p><sub>Project areas I’m documenting and developing. Until each project has its own public repository, the cards link to my repository list.</sub></p>
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/project-network.svg" width="100%" alt="Network engineering project track: TCP/IP, VLANs, routing, switching and troubleshooting" /></a>
+    <td width="33.33%" valign="top">
+      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/project-network.svg" width="100%" alt="Network infrastructure lab: routing, VLANs, switching and firewall policies" /></a>
+      <h3>🌐 Network Lab</h3>
+      <p>Routing, VLAN segmentation, switching, firewall rules and practical troubleshooting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MikroTik-EA4335?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik" />
+        <img src="https://img.shields.io/badge/VLAN-1677FF?style=flat-square" alt="VLAN" />
+      </p>
+      <a href="https://github.com/hieu-commits?tab=repositories">Explore repositories →</a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/project-iot.svg" width="100%" alt="IoT and connectivity project track: MQTT, APIs, telemetry and service integration" /></a>
+    <td width="33.33%" valign="top">
+      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/project-iot.svg" width="100%" alt="IoT connectivity with MQTT, APIs, telemetry and service integration" /></a>
+      <h3>📡 IoT Connectivity</h3>
+      <p>Connected services, MQTT messaging, API integration and telemetry flows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MQTT-8B5CF6?style=flat-square" alt="MQTT" />
+        <img src="https://img.shields.io/badge/API-0D9488?style=flat-square" alt="API" />
+      </p>
+      <a href="https://github.com/hieu-commits?tab=repositories">Explore repositories →</a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/project-security.svg" width="100%" alt="Cybersecurity project track: firewall policy, packet analysis, system hardening and automation" /></a>
+    <td width="33.33%" valign="top">
+      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/project-security.svg" width="100%" alt="Cybersecurity lab for traffic analysis, firewall policies and system hardening" /></a>
+      <h3>🛡️ Cybersecurity Lab</h3>
+      <p>Packet analysis, security controls, access policies and system hardening.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Security-8B5CF6?style=flat-square" alt="Security" />
+        <img src="https://img.shields.io/badge/Analysis-EC4899?style=flat-square" alt="Analysis" />
+      </p>
+      <a href="https://github.com/hieu-commits?tab=repositories">Explore repositories →</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🗒️ Lab Notes & Current Focus
+## 🗒️ Lab Notes &amp; Current Focus
 
-| Topic | What I'm exploring |
-|:--|:--|
-| **Network engineering** | VLAN segmentation, routing, switching, firewall rules and troubleshooting workflows |
-| **Traffic analysis** | Packet captures, protocol behaviour, logs and practical diagnostics |
-| **IoT connectivity** | MQTT messaging, API integration, telemetry and reliable communication between services |
-| **Security & automation** | System hardening, access control, defensive monitoring, Python and PowerShell scripts |
+<table>
+  <tr>
+    <td width="34%"><strong>🔀 Routing &amp; VLANs</strong></td>
+    <td>Designing segmented networks and validating connectivity between subnets.</td>
+  </tr>
+  <tr>
+    <td><strong>📦 Traffic Analysis</strong></td>
+    <td>Understanding packet captures, protocols, logs and troubleshooting evidence.</td>
+  </tr>
+  <tr>
+    <td><strong>📡 IoT Connectivity</strong></td>
+    <td>Exploring MQTT, API integration and communication between connected services.</td>
+  </tr>
+  <tr>
+    <td><strong>🔐 Security &amp; Automation</strong></td>
+    <td>Practicing access control, firewall policy review and scripts for IT operations.</td>
+  </tr>
+</table>
 
 ---
 
-## 📊 My GitHub Contributions
+## 📊 GitHub Contributions
 
 <p>
-  <a href="https://github.com/hieu-commits"><img height="165" src="https://github-readme-stats.vercel.app/api?username=hieu-commits&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics for hieu-commits" /></a>
-  <a href="https://github.com/hieu-commits?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieu-commits&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages" /></a>
+  <a href="https://github.com/hieu-commits"><img height="165" src="https://github-readme-stats.vercel.app/api?username=hieu-commits&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=38BDF8&icon_color=F59E0B" alt="GitHub statistics for hieu-commits" /></a>
+  <a href="https://github.com/hieu-commits?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieu-commits&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=38BDF8" alt="Most used languages" /></a>
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=hieu-commits&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=hieu-commits&theme=tokyonight&hide_border=true&ring=F59E0B&fire=FB7185&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-<p align="left">
-  <sub>Always learning, testing ideas, documenting results, and improving one project at a time.</sub>
+<p align="center">
+  <strong>Learn deeply. Test carefully. Build things that work.</strong><br/>
+  <sub>Networking · IoT · Cybersecurity · Automation</sub>
 </p>
