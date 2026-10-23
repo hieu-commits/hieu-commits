@@ -171,16 +171,19 @@ I'm an IT enthusiast exploring how software and infrastructure fit together — 
   <img src="https://streak-stats.demolab.com?user=hieu-commits&hide_border=true&background=0B1020&ring=42DDF5&fire=FF9E57&currStreakLabel=A78BFA&sideLabels=D9E6FF&dates=8BA4C7" alt="GitHub contribution streak" />
 </p>
 
-<!-- Optional: enable this after .github/workflows/snake.yml successfully creates the output branch.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake.svg" width="100%" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
   </picture>
 </p>
--->
-
----
 
 <p align="center">
   <strong>Think in systems. Build with purpose. Secure by design.</strong><br/>
