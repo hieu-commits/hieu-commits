@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-labelledby="t d">
+<title id="t">Hieu avatar placeholder</title><desc id="d">Abstract neon cyber avatar placeholder. Replace with your personal avatar.</desc>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061a3b"/><stop offset="1" stop-color="#15082f"/></linearGradient><linearGradient id="r" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#c084fc"/></linearGradient></defs>
+<circle cx="160" cy="160" r="153" fill="url(#b)" stroke="url(#r)" stroke-width="8"/><circle cx="160" cy="160" r="137" fill="none" stroke="#38bdf8" stroke-opacity=".4" stroke-width="2" stroke-dasharray="6 8"/>
+<path d="M63 222Q82 151 120 143L139 111Q160 87 186 111L204 145Q242 163 257 222L222 270H95Z" fill="#0b315b" stroke="#38bdf8" stroke-width="3"/>
+<path d="M113 149Q106 113 136 87Q160 68 186 90Q213 111 204 150L186 177H134Z" fill="#102a53" stroke="#a5f3fc" stroke-width="3"/>
+<path d="M118 128Q137 104 161 110Q182 113 198 130" fill="none" stroke="#22d3ee" stroke-width="5"/><path d="M126 150L146 146M174 146L194 150" stroke="#e0f2fe" stroke-width="5" stroke-linecap="round"/><path d="M145 172Q160 183 176 171" fill="none" stroke="#67e8f9" stroke-width="3"/>
+<path d="M98 222L127 199L160 215L191 199L222 222L206 272H113Z" fill="#102044" stroke="#60a5fa" stroke-width="3"/><path d="M160 215V272" stroke="#22d3ee" stroke-width="3"/><text x="160" y="250" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" text-anchor="middle">H</text>
+<g fill="#a5f3fc"><circle cx="65" cy="91" r="3"/><circle cx="246" cy="82" r="3"/><circle cx="250" cy="244" r="2.5"/><circle cx="77" cy="248" r="2.5"/></g>
+</svg>
