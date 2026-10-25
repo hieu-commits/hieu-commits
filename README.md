@@ -5,11 +5,9 @@
   2) Confirm the public email address.
   3) Update the LinkedIn URL and replace project links with real repository URLs when ready.
 -->
-
 <p align="center">
   <img src="assets/banner.svg" alt="Hi there, I'm Hieu — Build, Connect, Secure, Automate" width="100%" />
 </p>
-
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <!-- LEFT PROFILE PANEL -->
@@ -41,10 +39,9 @@
       </blockquote>
       <p align="center"><sub>BUILD · CONNECT · SECURE · AUTOMATE</sub></p>
     </td>
-
     <!-- RIGHT CONTENT PANEL -->
     <td width="76%" valign="top">
-      <h2>〈/〉 Tech Stack</h2>
+      <h2>〈/〉 Tech Stack</h2>
       <table width="100%" border="0" cellspacing="5" cellpadding="6">
         <tr>
           <td width="16.6%" valign="top" align="center">
@@ -82,7 +79,6 @@
           </td>
         </tr>
       </table>
-
       <h2>🗂️ Featured Projects</h2>
       <p><a href="https://github.com/hieu-commits?tab=repositories">View all repositories ↗</a></p>
       <table width="100%" border="0" cellspacing="6" cellpadding="5">
@@ -107,7 +103,6 @@
           </td>
         </tr>
       </table>
-
       <table width="100%" border="0" cellspacing="8" cellpadding="6">
         <tr>
           <!-- LAB NOTES -->
@@ -118,7 +113,6 @@
             <p>📝 <b>Windows IT Dashboard</b><br/><sub>PowerShell · Electron · Automation — <i>In progress</i></sub></p>
             <p>📝 <b>MikroTik Multi-WAN Lab</b><br/><sub>PCC · Failover · Policy Routing — <i>Lab notes</i></sub></p>
           </td>
-
           <!-- CONTRIBUTIONS + FUTURE GOALS -->
           <td width="62%" valign="top">
             <table width="100%" border="0" cellspacing="4" cellpadding="4">
@@ -140,7 +134,6 @@
           </td>
         </tr>
       </table>
-
       <hr/>
       <p align="center"><b>🔹 L E A R N &nbsp; · &nbsp; 🔹 B U I L D &nbsp; · &nbsp; 🔹 G R O W</b></p>
       <p align="center"><sub>Build systems. Secure them. Automate the rest.</sub></p>
