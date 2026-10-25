@@ -199,17 +199,25 @@ I learn by breaking complex topics into smaller pieces, building repeatable labs
   <img src="https://streak-stats.demolab.com?user=hieu-commits&hide_border=true&background=071426&ring=42DDF5&fire=FF9E57&currStreakLabel=A78BFA&sideLabels=D9E6FF&dates=8BA4C7" alt="GitHub contribution streak" />
 </p>
 
-<!--
-  OPTIONAL CONTRIBUTION SNAKE
-  Uncomment this block only after the snake workflow has successfully created
-  the output branch and both SVG files in this repository.
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake.svg" width="100%" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
   </picture>
 </p>
--->
+
 
 ---
 
