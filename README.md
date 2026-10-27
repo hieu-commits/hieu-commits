@@ -1,17 +1,15 @@
-<!--
-  GitHub Profile README for hieu-commits
-  Repository name must be exactly: hieu-commits
-  Upload this README.md and the full assets/ folder to the repository root.
--->
+<!-- Profile README for hieu-commits. Keep assets/ alongside this file. -->
 
 <p align="center">
   <img src="./assets/profile-banner.svg" alt="Hieu — Software Engineering, Networking, Cybersecurity, DevOps, Databases, IoT and Cloud" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/hieu-commits"><img src="https://img.shields.io/badge/GitHub-hieu--commits-10182B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://hieu-commits.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-0EA5E9?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio website" /></a>
-  <img src="https://img.shields.io/badge/Mindset-Systems%20Thinking-7C3AED?style=for-the-badge" alt="Systems thinking" />
+  <a href="https://github.com/hieu-commits">◉ GitHub · hieu-commits</a>
+  &nbsp;✦&nbsp;
+  <a href="https://hieu-commits.github.io">↗ Portfolio Website</a>
+  &nbsp;✦&nbsp;
+  <span>⌘ Systems Thinking</span>
 </p>
 
 <p align="center">
@@ -35,141 +33,38 @@ I learn by breaking complex topics into smaller pieces, building repeatable labs
 - 📡 **IoT** — device connectivity, MQTT, telemetry and service integration
 - ☁️ **Cloud** — infrastructure concepts, virtualization, deployment and observability
 
-> My approach: **Understand → Design → Build → Test → Document → Improve.**
+> **Approach:** Understand → Design → Build → Test → Document → Improve.
 
 ---
 
 ## ◈ Technical Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⌘ Software Engineering & AI</h3>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/AI%20%2F%20ML-Learning-7C3AED?style=for-the-badge" alt="AI and machine learning learning focus" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>⌁ Networking & Infrastructure</h3>
-      <img src="https://img.shields.io/badge/TCP%2FIP-1677FF?style=for-the-badge" alt="TCP/IP" />
-      <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
-      <img src="https://img.shields.io/badge/VLAN-0891B2?style=for-the-badge" alt="VLAN" />
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/EVE--NG-475569?style=for-the-badge" alt="EVE-NG" />
-      <img src="https://img.shields.io/badge/DNS%20%2F%20IPv6-2563EB?style=for-the-badge" alt="DNS and IPv6" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>⛨ Cybersecurity</h3>
-      <img src="https://img.shields.io/badge/Traffic%20Analysis-7C3AED?style=for-the-badge" alt="Traffic analysis" />
-      <img src="https://img.shields.io/badge/Firewall-DC2626?style=for-the-badge" alt="Firewall" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Access%20Control-6D28D9?style=for-the-badge" alt="Access control" />
-      <img src="https://img.shields.io/badge/Hardening-B91C1C?style=for-the-badge" alt="System hardening" />
-    </td>
-    <td valign="top">
-      <h3>∞ DevOps & Cloud</h3>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/CI%2FCD-6478F8?style=for-the-badge" alt="CI/CD" />
-      <img src="https://img.shields.io/badge/Virtualization-475569?style=for-the-badge" alt="Virtualization" />
-      <img src="https://img.shields.io/badge/Cloud%20Fundamentals-0D9488?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud fundamentals" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>▤ Database Engineering</h3>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Data%20Modeling-0F766E?style=for-the-badge" alt="Data modeling" />
-    </td>
-    <td valign="top">
-      <h3>⌁ IoT & Connected Systems</h3>
-      <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge" alt="MQTT" />
-      <img src="https://img.shields.io/badge/Telemetry-0891B2?style=for-the-badge" alt="Telemetry" />
-      <img src="https://img.shields.io/badge/Device%20Connectivity-0D9488?style=for-the-badge" alt="Device connectivity" />
-      <img src="https://img.shields.io/badge/API%20Integration-2563EB?style=for-the-badge" alt="API integration" />
-    </td>
-  </tr>
-</table>
+<p><sub>Each category has its own soft glass panel, rounded neon border and a subtle moving glow. These are focus areas and tools I explore, not claims of certification.</sub></p>
 
-<p><sub>These badges describe my technical focus and tools I explore. My repositories are the best place to evaluate hands-on work; I avoid presenting learning topics as certifications or mastery.</sub></p>
+<p align="center">
+  <img src="./assets/technical-stack.gif" width="100%" alt="Animated technical stack cards for Software Engineering and AI, Networking, Cybersecurity, DevOps and Cloud, Databases, and IoT. Each card has rounded glowing borders and pill-shaped technology badges." />
+</p>
 
 ---
 
 ## ◈ Featured Project Tracks
 
-<p><sub>These are project tracks and lab directions, not claims that every project is already complete. Replace each repository-list link with a direct project URL as you publish real work.</sub></p>
+<p><sub>These cards describe project tracks and lab directions. They are not claims that every project is already complete; each card links to my repositories so you can inspect published work.</sub></p>
 
-<table>
-  <tr>
-    <td width="33.33%" valign="top">
-      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/card-software.svg" width="100%" alt="Software engineering artwork" /></a>
-      <h3>01 / Software Engineering</h3>
-      <p>Build readable programs, practice algorithms and data structures, and explore AI/ML through small, testable experiments.</p>
-      <p><img src="https://img.shields.io/badge/C%2B%2B-2563EB?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></p>
-      <a href="https://github.com/hieu-commits?tab=repositories">Explore repositories ↗</a>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/card-network.svg" width="100%" alt="Network infrastructure artwork" /></a>
-      <h3>02 / Network Infrastructure</h3>
-      <p>Routing, switching, VLAN segmentation, WAN connectivity, firewall policy and repeatable troubleshooting labs.</p>
-      <p><img src="https://img.shields.io/badge/TCP%2FIP-168BFF?style=flat-square" alt="TCP/IP" /> <img src="https://img.shields.io/badge/MikroTik-EA4335?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik" /></p>
-      <a href="https://github.com/hieu-commits?tab=repositories">Explore repositories ↗</a>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/card-security.svg" width="100%" alt="Cybersecurity shield artwork" /></a>
-      <h3>03 / Cybersecurity</h3>
-      <p>Packet inspection, network visibility, access control, security baselines and defensive testing in authorized labs.</p>
-      <p><img src="https://img.shields.io/badge/Defense-8B5CF6?style=flat-square" alt="Defensive security" /> <img src="https://img.shields.io/badge/Analysis-DB2777?style=flat-square" alt="Analysis" /></p>
-      <a href="https://github.com/hieu-commits?tab=repositories">Explore repositories ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33.33%" valign="top">
-      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/card-devops.svg" width="100%" alt="DevOps and cloud pipeline artwork" /></a>
-      <h3>04 / DevOps & Cloud</h3>
-      <p>Versioned configuration, containers, CI/CD concepts, Linux services, deployment workflow and infrastructure fundamentals.</p>
-      <p><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/CI%2FCD-6478F8?style=flat-square" alt="CI/CD" /></p>
-      <a href="https://github.com/hieu-commits?tab=repositories">Explore repositories ↗</a>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/card-database.svg" width="100%" alt="Database systems artwork" /></a>
-      <h3>05 / Database Engineering</h3>
-      <p>SQL queries, relational algebra, schema design, normalization and reliable data access.</p>
-      <p><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></p>
-      <a href="https://github.com/hieu-commits?tab=repositories">Explore repositories ↗</a>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/card-iot.svg" width="100%" alt="IoT device connectivity artwork" /></a>
-      <h3>06 / IoT & Connected Systems</h3>
-      <p>Device-to-service communication, MQTT messaging, telemetry flows and integration with network services.</p>
-      <p><img src="https://img.shields.io/badge/MQTT-660066?style=flat-square" alt="MQTT" /> <img src="https://img.shields.io/badge/Telemetry-0891B2?style=flat-square" alt="Telemetry" /></p>
-      <a href="https://github.com/hieu-commits?tab=repositories">Explore repositories ↗</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/card-software.gif" width="32%" alt="Software Engineering project track — C/C++, Python and AI/ML" /></a>&nbsp;<a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/card-network.gif" width="32%" alt="Networking and Infrastructure project track — TCP/IP, MikroTik and Wireshark" /></a>&nbsp;<a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/card-security.gif" width="32%" alt="Cybersecurity project track — traffic analysis, firewall and defensive security" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/card-devops.gif" width="32%" alt="DevOps and Cloud project track — Docker, CI/CD and cloud fundamentals" /></a>&nbsp;<a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/card-database.gif" width="32%" alt="Database Engineering project track — SQL, MySQL, PostgreSQL and data modeling" /></a>&nbsp;<a href="https://github.com/hieu-commits?tab=repositories"><img src="./assets/card-iot.gif" width="32%" alt="IoT and Connected Systems project track — MQTT, telemetry and APIs" /></a>
+</p>
 
 ---
 
 ## ◈ Engineering Workflow
 
-<p align="center">
-  <img src="https://img.shields.io/badge/01-Understand-0EA5E9?style=for-the-badge" alt="Understand" />
-  <img src="https://img.shields.io/badge/02-Design-6366F1?style=for-the-badge" alt="Design" />
-  <img src="https://img.shields.io/badge/03-Build-8B5CF6?style=for-the-badge" alt="Build" />
-  <img src="https://img.shields.io/badge/04-Test-14B8A6?style=for-the-badge" alt="Test" />
-  <img src="https://img.shields.io/badge/05-Document-F59E0B?style=for-the-badge" alt="Document" />
-</p>
+<p align="center"><strong>01 Understand</strong> &nbsp; ⟶ &nbsp; <strong>02 Design</strong> &nbsp; ⟶ &nbsp; <strong>03 Build</strong> &nbsp; ⟶ &nbsp; <strong>04 Test</strong> &nbsp; ⟶ &nbsp; <strong>05 Document</strong></p>
 
-- **Reproducible:** record commands, configs, assumptions and test steps.
+- **Reproducible:** record commands, configurations, assumptions and test steps.
 - **Observable:** use logs, metrics or packet captures to understand behavior.
 - **Secure-minded:** apply least privilege and test only in systems I own or am authorized to assess.
 - **Maintainable:** prefer clear structure and useful documentation over unnecessary complexity.
@@ -199,25 +94,14 @@ I learn by breaking complex topics into smaller pieces, building repeatable labs
   <img src="https://streak-stats.demolab.com?user=hieu-commits&hide_border=true&background=071426&ring=42DDF5&fire=FF9E57&currStreakLabel=A78BFA&sideLabels=D9E6FF&dates=8BA4C7" alt="GitHub contribution streak" />
 </p>
 
-
+<!-- Contribution Snake is shown only if the output branch contains both SVGs. -->
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hieu-commits/hieu-commits/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
-
 
 ---
 
@@ -227,6 +111,7 @@ I learn by breaking complex topics into smaller pieces, building repeatable labs
 </p>
 
 <p align="center">
-  <a href="https://github.com/hieu-commits"><img src="https://img.shields.io/badge/Connect-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
-  <a href="https://hieu-commits.github.io"><img src="https://img.shields.io/badge/Explore-Portfolio-0EA5E9?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/hieu-commits">Connect on GitHub ↗</a>
+  &nbsp;✦&nbsp;
+  <a href="https://hieu-commits.github.io">Explore Portfolio ↗</a>
 </p>
