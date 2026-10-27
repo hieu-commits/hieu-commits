@@ -34,7 +34,7 @@ I learn by building small, repeatable projects, testing what fails, documenting 
 A carefully spaced, static overview. Each technology uses its own recognizable mark where available; the layout groups related tools in separate rounded panels instead of a dense table of touching badges.
 
 <p align="center">
-  <img src="./assets/technical-stack-board.svg" width="100%" alt="Six spacious rounded technical cards: Software Engineering and AI with C, C++, Python, Java, JavaScript, HTML5, CSS3 and Git; Networking with TCP/IP, Cisco, MikroTik, VLAN, Wireshark, Linux and DNS/IPv6; Cybersecurity with Kali Linux, Nmap, Wireshark, Metasploit, Fortinet, Palo Alto and access control; DevOps and Cloud with Docker, Kubernetes, GitHub Actions, CI/CD, Terraform, AWS, Azure and Grafana; Databases with SQL, MySQL, PostgreSQL, MongoDB, Redis and SQLite; IoT with MQTT, Raspberry Pi, Node-RED, telemetry, APIs and sensors." />
+  <img src="./assets/technical-stack-board.png" width="100%" alt="Six spacious rounded technical cards: Software Engineering and AI with C, C++, Python, Java, JavaScript, HTML5, CSS3 and Git; Networking with TCP/IP, Cisco, MikroTik, VLAN, Wireshark, Linux and DNS/IPv6; Cybersecurity with Kali Linux, Nmap, Wireshark, Metasploit, Fortinet, Palo Alto and access control; DevOps and Cloud with Docker, Kubernetes, GitHub Actions, CI/CD, Terraform, AWS, Azure and Grafana; Databases with SQL, MySQL, PostgreSQL, MongoDB, Redis and SQLite; IoT with MQTT, Raspberry Pi, Node-RED, telemetry, APIs and sensors." />
 </p>
 
 ### Security & network vendor marks
