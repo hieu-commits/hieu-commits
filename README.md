@@ -44,21 +44,19 @@ I prefer hands-on learning: implement a small solution, test it, document the re
 
 ## Technical Stack — The Engineering Deck
 
-Six upright, playing-card-inspired panels organize the tools by discipline. Each card uses a consistent radius, deliberate spacing, custom technology marks, and a **slow, subtle perimeter-light animation** in its own accent color.
+Six upright, playing-card-inspired panels organize the tools by discipline. Each card uses a consistent radius, deliberate spacing, distinct visual hierarchy, custom technology marks, and a restrained static neon border in its own accent color.
 
 <p align="center">
-  <img src="./assets/tech-card-01.gif" width="31%" alt="Software Engineering and AI technology card" />&nbsp;
-  <img src="./assets/tech-card-02.gif" width="31%" alt="Networking and Infrastructure technology card" />&nbsp;
-  <img src="./assets/tech-card-03.gif" width="31%" alt="Cyber Security technology card" />
+  <img src="./assets/tech-card-01.png" width="31%" alt="Software Engineering and AI technology card" />&nbsp;
+  <img src="./assets/tech-card-02.png" width="31%" alt="Networking and Infrastructure technology card" />&nbsp;
+  <img src="./assets/tech-card-03.png" width="31%" alt="Cyber Security technology card" />
 </p>
 
 <p align="center">
-  <img src="./assets/tech-card-04.gif" width="31%" alt="DevOps and Cloud technology card" />&nbsp;
-  <img src="./assets/tech-card-05.gif" width="31%" alt="Database Engineering technology card" />&nbsp;
-  <img src="./assets/tech-card-06.gif" width="31%" alt="IoT and Connected Systems technology card" />
+  <img src="./assets/tech-card-04.png" width="31%" alt="DevOps and Cloud technology card" />&nbsp;
+  <img src="./assets/tech-card-05.png" width="31%" alt="Database Engineering technology card" />&nbsp;
+  <img src="./assets/tech-card-06.png" width="31%" alt="IoT and Connected Systems technology card" />
 </p>
-
-<p align="center"><sub>Animated border is a gentle looping GIF. GitHub README does not support CSS hover-only effects, so the light sweep loops instead of waiting for a mouse hover.</sub></p>
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0B1729?style=flat&logo=python&logoColor=3776AB" alt="Python" /></a>&nbsp;
