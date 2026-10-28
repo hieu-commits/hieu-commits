@@ -8,7 +8,7 @@ This package intentionally does not include/replace .github/workflows/snake.yml.
   <img src="./assets/profile-banner.png" width="100%" alt="Hieu — Software Engineering, Networking, Cyber Security, DevOps, Databases, IoT and Cloud" />
 </p>
 
-<h1 align="center">👋 Hi there, I'm Huỳnh Nhật Hiếu!</h1>
+<h1 align="center">👋 Hi there, I'm <img src="./assets/name-highlight.svg" width="285" height="42" alt="Huỳnh Nhật Hiếu!" align="middle" /></h1>
 
 <p align="center">
   <strong>Software Engineering &amp; Computer Science student at HCMUS</strong><br />

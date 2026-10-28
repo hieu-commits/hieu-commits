@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="285" height="42" viewBox="0 0 285 42" role="img" aria-labelledby="title desc">
+  <title id="title">Huỳnh Nhật Hiếu</title>
+  <desc id="desc">Name highlighted with a cyan-to-blue gradient to match the engineering profile theme.</desc>
+  <defs>
+    <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#44D8F2"/>
+      <stop offset="58%" stop-color="#4CC8FF"/>
+      <stop offset="100%" stop-color="#72A8FF"/>
+    </linearGradient>
+    <filter id="softGlow" x="-12%" y="-35%" width="124%" height="170%">
+      <feGaussianBlur stdDeviation="1.25" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="3" y="30" fill="url(#nameGradient)" filter="url(#softGlow)"
+        font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="800"
+        letter-spacing="-0.45">Huỳnh Nhật Hiếu!</text>
+</svg>
